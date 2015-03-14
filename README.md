@@ -4,7 +4,7 @@ I figured that since I spend a lot of my free time doing NIT bracketology I shou
 
 ### Data:
 
-[nit-participants-2010-2014.csv](): The data for every team that's played in the NIT the past five seasons. Collected from three main sources:
+[nit-participants-2010-2014.csv](https://github.com/jtemplon/2015-03-nit-analysis/blob/master/data/nit-participants-2010-2014.csv): The data for every team that's played in the NIT the past five seasons. Collected from three main sources:
 
 - Wikipedia
 - Basketball State (RPI)
@@ -14,4 +14,4 @@ This may mean that you don't necessarily agree with all the distinctions I've ma
 
 ### Notebooks:
 
-[nit-bracketology-analysis.ipynb](): The analysis in an IPython Notebook, which walks through some key pieces of the RPI discussion as it relates to at-large bids in the NIT. Some rather interesting findings, especially around outliers. You can view a version of these findings without having IPython Notebook installed [here]().
+[nit-bracketology-analysis.ipynb](https://github.com/jtemplon/2015-03-nit-analysis/blob/master/notebooks/nit-bracketology-analysis.ipynb): The analysis in an IPython Notebook, which walks through some key pieces of the RPI discussion as it relates to at-large bids in the NIT. Some rather interesting findings, especially around outliers. You can view a version of these findings without having IPython Notebook installed [here](http://nbviewer.ipython.org/github/jtemplon/2015-03-nit-analysis/blob/master/notebooks/nit-bracketology-analysis.ipynb).
