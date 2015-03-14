@@ -1,6 +1,6 @@
 # NIT RPI Analysis
 
-I figured that since I spend a lot of my free time doing NIT bracketology I should actually make sure my conclusions were grounded in some sort of historical data. Here I analyzed the past five National Invitational Tournament (NIT) fields, mostly around the factor of RPI.
+I figured that since I spend a lot of my free time doing [NIT bracketology](www.nycbuckets.com/current-nit-bracketology/) I should actually make sure my conclusions were grounded in some sort of historical data. Here I analyzed the past five National Invitational Tournament (NIT) fields, mostly around the factor of RPI.
 
 ### Data:
 
